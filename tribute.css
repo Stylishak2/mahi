@@ -1,0 +1,38 @@
+body
+{
+    background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuT3aQcHEpySurujnCmgvSoJs5lgCPkn_wpQ&usqp=CAU');
+    background-repeat:no repeat;
+    background-size:cover;
+    color:white;
+    height: 100;
+    width: 100;
+    border: 1px;
+}
+.round-container {
+    width:300px;
+    height: 70px;
+}
+
+ .image-containerimg
+ {
+    clip-path:circle();
+}
+p{
+    margin color:red;
+}
+H3
+    {
+        color: aqua;
+    }
+h4{
+    color:gold;
+}
+h5{
+    color: orangered;
+}
+p{
+    color:white;
+}
+h1{
+    color: red;
+}
