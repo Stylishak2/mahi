@@ -1,0 +1,71 @@
+body   {
+    background-image: url('https://cdn.mos.cms.futurecdn.net/rDJegQJaCyGaYysj2g5XWY-650-80.jpg.webp');
+    background-repeat: no repeat;
+    background-size: cover;
+
+}
+h1{
+    color: red;
+}
+
+.email{
+    width: 30%;
+    height: 80%;
+    background-color:  #0c0908;
+    color: white;
+    margin: auto;
+    border-radius: 3%;\
+
+}
+.pass
+{
+    text-align: center;
+    color: white;
+}
+.raj
+{ 
+    board color: white ;
+    text-align: left;
+    background-color:  #0c0908;
+    text-align: left;
+    height: 300%;
+    width: 30%;
+    margin: auto;
+    color: white;
+
+}
+
+.dom
+{   background-color: red;
+    text-align: center;
+    height: 300%;
+    width: 30%;
+    margin: auto;
+
+}
+.kavali
+{    background-color: disply #0c0908;
+    text-align: paddig;
+    height: 300%;
+    width: 30%;
+    margin: auto;
+    color: white;
+
+}.mahi{
+    background-color:  #0c0908;
+    text-align: padding;
+    height: 300%;
+    width: 30%;
+    margin: auto;
+    color: white;
+
+}
+.kothi
+{
+    text-align: left;
+    height: 6000%;
+    width: 30%;
+    margin: auto;
+    color: white;
+
+}

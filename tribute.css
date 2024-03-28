@@ -22,17 +22,7 @@ p{
 }
 H3
     {
-        color: aqua;
-    }
-h4{
-    color:gold;
-}
-h5{
-    color: orangered;
-}
-p{
-    color:white;
-}
-h1{
-    color: red;
+        page border-radius: 2px;
+        page border color:red;
+    
 }
