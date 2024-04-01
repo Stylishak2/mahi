@@ -7,65 +7,18 @@ body   {
 h1{
     color: red;
 }
+#kavali{
+margin: auto;
+height: 200px;
+width: 280px;
+text-align: center;
+background-color: black;
+color: white;
+text-indent: 18px;
+border: 1px solid black;
 
-.email{
-    width: 30%;
-    height: 80%;
-    background-color:  #0c0908;
-    color: white;
-    margin: auto;
-    border-radius: 3%;\
-
+padding: 50px;
 }
-.pass
-{
-    text-align: center;
+p{
     color: white;
-}
-.raj
-{ 
-    board color: white ;
-    text-align: left;
-    background-color:  #0c0908;
-    text-align: left;
-    height: 300%;
-    width: 30%;
-    margin: auto;
-    color: white;
-
-}
-
-.dom
-{   background-color: red;
-    text-align: center;
-    height: 300%;
-    width: 30%;
-    margin: auto;
-
-}
-.kavali
-{    background-color: disply #0c0908;
-    text-align: paddig;
-    height: 300%;
-    width: 30%;
-    margin: auto;
-    color: white;
-
-}.mahi{
-    background-color:  #0c0908;
-    text-align: padding;
-    height: 300%;
-    width: 30%;
-    margin: auto;
-    color: white;
-
-}
-.kothi
-{
-    text-align: left;
-    height: 6000%;
-    width: 30%;
-    margin: auto;
-    color: white;
-
 }
