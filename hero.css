@@ -1,0 +1,58 @@
+body{
+    border-color: 1000px;
+    margin-top: 10px;
+    background-image: url(https://img.freepik.com/premium-photo/happy-ugadi-greeting-card-background-with-kalash_399963-4806.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+      }
+h2{
+    color: red;
+    font-size: 30px;
+}
+h1{
+    text-align: right;
+    // <uniquifier>: Use a unique and descriptive class name
+    // <weight>: Use a value from 400 to 700
+     {
+      font-family: "Dancing Script", cursive;
+      font-optical-sizing: auto;
+      font-weight: <weight>;
+      font-style: normal;
+    }
+}
+
+
+.selebration{
+    clip-path: circle();
+    float: inline-end;
+    padding: auto;
+}
+h1{
+    font-family: "Marcellus", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 80px;
+    color: blue;
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
+
+
+p{
+    font-size: 50px;
+        font-family: "Great Vibes", cursive;
+        font-weight: 400;
+        font-style: normal;
+        color: violet;
+      }
+      .contact{font-size: large;
+      }.me{
+        inset-inline-end: MAHI;
+      }
+      H4{
+        margin-inline-end: 10PX;
+      }
+      
+

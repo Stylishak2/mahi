@@ -1,0 +1,28 @@
+body
+{
+    background-color: rgb(10%,30%,76%);
+    background: radial-gradient(orange,blue,yellow);
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+        font-family: "Licorice", cursive;
+        font-weight: 400;
+        font-style: normal;
+
+      }
+      p{
+        font-size: 50px;
+      float: left;
+        height: 50px;
+        border-radius: 10%;
+          font-family: "Great Vibes", cursive;
+          font-weight: 400;
+          font-style: normal;
+        }
+      .img
+      {
+        clip-path: circle();
+        height: 100px;
+      
+      }
