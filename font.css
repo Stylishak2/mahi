@@ -3,7 +3,7 @@ body
     background-color: rgb(10%,30%,76%);
     background: radial-gradient(orange,blue,yellow);
 }
-h1{
+h1,h2{
     text-align: center;
     font-size: 50px;
         font-family: "Licorice", cursive;
@@ -23,6 +23,86 @@ h1{
       .img
       {
         clip-path: circle();
-        height: 100px;
-      
+      float: inline-end;
+      padding: auto;
       }
+      .box{
+          padding: 10px;
+          width: 1000px;
+          height: 400px;
+          background-color: red;
+          border: 1px solid black;
+      }
+      .box1{
+          padding: 10px;
+          width: 800px;
+          height: 400px;
+          background-color: blue;
+          border: 1px solid green;
+      }
+      .box2{
+              padding: 10px;
+              width: 800px;
+              height: 400px;
+              background-color: red;
+              border: 1px solid black;
+          
+      }
+      .box3{
+              padding: 10px;
+              width: 800px;
+              height: 400px;
+              background-color: blue;
+              border: 1px solid green;}
+              h2{
+                test align: center;
+              }
+              .box5{
+                padding:10px;
+                width: 800px;
+                height: 400px;
+                background-color: gold;
+                border: 1px slod red;
+              }
+              .box4{
+                padding: 10px;
+                width: 800px;
+                height: 400px;
+                background-color: blue;
+                border: 1px solid red;
+              }box6{
+                padding: 10px;
+                width: 800px;
+                height: 200px;
+                background-color: indigo;
+                border: white;
+              }.box7{
+                padding: 10px;
+                width: 800px;
+                height: 500px;
+                background-color: violet;
+                border: wheat;
+              }.birth{
+                padding-left: 900px;
+                height: 900px;
+                width: 700px;
+              clip-path: circle();
+              padding: auto;
+
+              }.birthday
+              {
+                padding-right: 100px;
+                clip-path: calc();
+                padding: auto;
+                height: 100px;
+                width: 700px;
+              }h3{
+                text-align: center;
+                  font-family: "Racing Sans One", sans-serif;
+                  font-weight: 500;
+                  font-style: normal;
+                  font-size: 60px;
+                
+              }h4{
+                text-align: end;
+              }
