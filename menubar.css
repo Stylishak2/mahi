@@ -1,0 +1,28 @@
+body{
+
+}h1{
+    text-align: center;
+    font-size: 80px;
+    color:hsl(from color h s l);
+}
+.main{
+    height: 300px;
+    width: 300px;
+    background-color: red;
+    border: 1px solid black;
+    flex-direction: row;
+    display: flex;
+    align-items: start;
+    flex-wrap: wrap;
+    gap: 10px;
+    row-gap: 10px;
+    justify-content: flex-end;
+    align-items: center;
+}.box1
+{
+    height: 300px;
+    width: 300px;
+    background-color: red;
+    border: 1px solid black;
+    flex: ;
+}
