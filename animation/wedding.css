@@ -1,0 +1,28 @@
+body{
+    
+    background: url(https://png.pngtree.com/thumb_back/fh260/background/20230325/pngtree-wedding-romantic-pink-background-image_2116917.jpg);
+    background-size: cover;
+}
+.main{
+    font-size: 30px;
+    text-align: center;
+}
+h1 {
+        font-family: "Racing Sans One", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        color: orangered;
+      }
+      h2{
+            font-family: "Calligraffitti", cursive;
+            font-weight: 400;
+            font-style: normal;
+            color: blue;
+          }
+          h3{
+            color: red;
+
+          
+          }
+          
+      
